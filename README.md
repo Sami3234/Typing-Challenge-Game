@@ -10,10 +10,8 @@ A responsive Bootstrap 5 typing game built from the Lab Mid requirements. It inc
 Open `index.html` directly in a browser, or serve the folder locally:
 
 ```powershell
-python -m http.server 8000
-```
-
-Then visit `http://localhost:8000`.
+``
+Then visit `http://localhost:3000`.
 
 ## Controls
 
